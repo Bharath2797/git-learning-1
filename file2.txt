@@ -1,2 +1,4 @@
 add content to file2
 delete content on file2
+hello world 
+this is bharath
