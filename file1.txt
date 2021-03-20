@@ -2,3 +2,4 @@ hello world
 add content to file 1
 delete content on file1
 this is bharath chandra
+delete this content
