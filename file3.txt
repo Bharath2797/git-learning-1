@@ -1,2 +1,4 @@
 add content to file3
 delete the content on file 3
+hai 
+this bharath
